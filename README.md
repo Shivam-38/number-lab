@@ -36,22 +36,6 @@ The program calculates the approximation by adding and subtracting terms alterna
 
 💻 How to Run
 
-1. Clone this repository:
-   
-   git clone YOUR_REPOSITORY_URL
-
-2. Open the project folder:
-   
-   cd leibniz-pi-calculator
-
-3. Run the Python program:
-   
-   python main.py
-
-4. Enter the number of terms when prompted.
-
-📊 Example Output
-
 Enter the number of terms to approximate Pi: 100
 
 The Pi: 3.1315929035585537
