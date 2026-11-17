@@ -8,12 +8,18 @@ i = 1
 """Take user's input"""
 n = int(input("Enter decimal places: "))
 
-while i <= n:
+previous = round(total,n)
+while True:
     j *= i
     total += 1/j
     i += 1
+    current =round(total,n)
 
-total = round(n)
+    if current == previous:
+        break
 
-print("The e: ", total)
-    
+    previous = current
+
+
+print(round(total, n))
+
