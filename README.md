@@ -1,66 +1,63 @@
-🥧 Leibniz Pi Calculator using Python
+# 🔢 Number Lab
 
-A simple Python project that approximates the mathematical constant π (Pi) using the Leibniz Formula.
+A collection of Python projects focused on exploring mathematical concepts through programming.
 
-This project was created to practise Python fundamentals, mathematical logic, loops, conditional statements, and problem-solving.
+**Number Lab** is my personal Python learning repository where I build programs to calculate, generate, and understand interesting mathematical numbers and sequences.
 
-📐 Mathematical Formula
+The goal is to strengthen my Python fundamentals, problem-solving skills, and mathematical thinking by building projects from scratch.
 
-The Leibniz formula is:
+## 🚀 Projects
 
-[
-PI/4 = 1 - 1/3 + 1/5 - 1/7 + 1/9 ......
-]
+### 1. π (Pi) Calculator
+- Calculates the value of Pi using the Leibniz formula.
+- Uses iterative calculations to approximate Pi.
+- Explores mathematical series and loops.
 
-Therefore:
+### 2. e (Euler's Number) Calculator
+- Calculates Euler's number (e) using its infinite series.
+- Uses factorial calculations and iterative approximation.
+- Explores mathematical precision and numerical computation.
 
-[
-PI = 4(1 - 1/3 + 1/5 - 1/7 + 1/9 ......)
-]
+### 3. Fibonacci Generator
+- Generates Fibonacci numbers using an iterative approach.
+- Explores number sequences and variable updates.
+- Focuses on understanding logical patterns through Python.
 
-The program calculates the approximation by adding and subtracting terms alternately.
+## 🛠️ Technologies Used
 
-🚀 Features
+- Python
+- Mathematical formulas
+- Loops and conditional statements
+- Variables and functions
+- Problem-solving and logical thinking
 
-- User-defined number of terms.
-- Calculates Pi using the Leibniz series.
-- Uses a while loop for iteration.
-- Uses modulo ("%") for alternating positive and negative terms.
-- Displays the approximated value of Pi.
 
-🛠️ Technologies Used
+## 🎯 Goals
 
-- Python 3
-- VS Code
-- Git & GitHub
+- Explore mathematical concepts using Python.
+- Improve programming fundamentals.
+- Develop strong problem-solving skills.
+- Understand algorithms through practical implementation.
+- Build more advanced mathematical projects over time.
 
-💻 How to Run
+## 🔮 Future Projects
 
-Enter the number of terms to approximate Pi: 100
+More mathematical experiments and number-based projects will be added as I continue learning Python.
 
-The Pi: 3.1315929035585537
+Some ideas:
+- Prime Number Analyzer
+- Perfect Number Checker
+- Armstrong Number Generator
+- Collatz Conjecture
+- Golden Ratio Calculator
+- Number Pattern Generator
 
-Note: The result is an approximation. Increasing the number of terms generally improves accuracy, but the Leibniz series converges very slowly.
+## 👨‍💻 About
 
-📚 What I Learned
+This repository represents my journey of learning Python through experimentation, curiosity, and building things from scratch.
 
-Through this project, I practised:
-
-- Python variables and data types.
-- While loops and conditional statements.
-- Modulo and exponentiation operators.
-- Mathematical series and approximation.
-- Using Git and GitHub to manage projects.
-
-🔮 Future Improvements
-
-- Add more Pi calculation algorithms.
-- Compare approximation with actual Pi.
-- Calculate approximation error.
-- Explore high-precision calculations.
+**Learn → Experiment → Build → Improve**
 
 ---
 
-Author: Shivam Tiwari
-
-Learning Python, building projects, and improving problem-solving skills one step at a time.
+⭐ If you find this repository interesting, feel free to explore!
